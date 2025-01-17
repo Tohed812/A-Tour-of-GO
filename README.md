@@ -29,3 +29,5 @@ To install Go, follow these steps:
    go version
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*KOu_flMjafF663hu.gif)
+
+GIF Source : https://blog.stackademic.com/go-a-silent-killer-in-the-programming-world-60673098a103
