@@ -5,11 +5,17 @@ import (
 	"math"
 )
 
-func pow(x, n, lim float64) float64 {
-	if v := math.Pow(x, n); v < lim {
-		return v
+
+//Go's if statements are like its for loops; the expression need not be surrounded by parentheses ( ) but the braces { } are required.
+
+//Go's if statements can include an optional statement (v := math.Pow(x, n)) that is executed before the condition (v < limit) is evaluated.
+
+
+func pow(x, n, limit float64) float64 {
+	if v := math.Pow(x, n); v < limit {
+		return v  //either returns v or limit
 	}
-	return lim //return v will throw an error here: because v is declared within the 'if' scope
+	return limit //return v will throw an error here: because v is declared within the 'if' scope
 
 }
 
