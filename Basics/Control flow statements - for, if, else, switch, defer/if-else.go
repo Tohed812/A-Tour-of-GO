@@ -13,12 +13,14 @@ func pow(x, n, limit float64) float64 {
 	}
 	return limit
 
+	//if a function returns a value, it does not execute the code after the return statement
+	//if 'return v' is executed, the code after it (along with 'return limit') will not be executed
 }
 
 func main() {
 	fmt.Println(
-		pow(3, 2, 10),
-		pow(3, 3, 20),
 		pow(3, 4, 28),
+		pow(3, 2, 16),
+		pow(3, 3, 20),
 	)
 }
