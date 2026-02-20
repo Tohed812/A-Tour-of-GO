@@ -1,6 +1,6 @@
 # A Tour of GO
 
-![](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*KOu_flMjafF663hu.gif)
 
 Welcome to the "A Tour of GO" repository! This repository contains examples, exercises, and explorations of the Go programming language. Whether you are a beginner or an experienced developer, you'll find something useful here.
 
@@ -28,6 +28,6 @@ To install Go, follow these steps:
    ```sh
    go version
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*KOu_flMjafF663hu.gif)
+
 
 GIF Source : https://blog.stackademic.com/go-a-silent-killer-in-the-programming-world-60673098a103
