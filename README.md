@@ -25,9 +25,9 @@ To install Go, follow these steps:
 1. Download the latest version of Go from the [official website](https://golang.org/dl/).
 2. Follow the installation instructions for your operating system.
 3. Verify the installation by running:
-   ```sh
+```bash
    go version
-
+```
 
 
 GIF Source : https://blog.stackademic.com/go-a-silent-killer-in-the-programming-world-60673098a103
